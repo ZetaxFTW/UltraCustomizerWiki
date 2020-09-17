@@ -1,4 +1,4 @@
-# Commands and Permissions
+## Commands and Permissions
 
 * **/customizer** to open the Main GUI
 (Requires ``ultracustomizer.admin``)
