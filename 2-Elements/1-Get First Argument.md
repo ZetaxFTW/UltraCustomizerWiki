@@ -4,12 +4,11 @@
 
 Retrieves the first argument from a command 
 
-<br><br>
+<br>
 
 **Output**
 
 The first argument</a>
-<br>
 <br>
 
 **Example**
