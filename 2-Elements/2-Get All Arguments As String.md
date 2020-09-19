@@ -6,7 +6,7 @@ Retrieves all first argument from a string
 
 
 **Output**
-Arguments 
+String 
 
 **Example**
 /example arg1 arg2 arg3
