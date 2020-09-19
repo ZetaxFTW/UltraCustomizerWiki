@@ -6,7 +6,7 @@ Retrieves the first argument from a command
 
 **Output**
 
-The first argument</a>
+The first argument
 <br>
 
 **Example**

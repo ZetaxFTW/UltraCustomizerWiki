@@ -4,7 +4,7 @@ Check if there are Arguments any provided by a command
 <br>
 
 **Output**
-bool(True or False)</a>
+bool(True or False)
 <br>
 
 **Example**
