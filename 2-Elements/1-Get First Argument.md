@@ -6,5 +6,5 @@ Retrieves the first argument from a command
 **Output**
 The first argument
 
-** example **
+**example**
 /example arg1 
