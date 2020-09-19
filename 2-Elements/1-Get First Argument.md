@@ -1,5 +1,5 @@
 <p align="center">
-**Get First Argument**
+<b>Get First Argument</b>
 </p>
 
 Retrieves the first argument from a command 
