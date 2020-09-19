@@ -1,8 +1,5 @@
-h2.headertekst {
-  text-align: center;
-}
-
-<h2 class="headertekst">Get First Argument </h2>
+<p align="center">
+<h2 >Get First Argument </h2>
 </p>
 
 Retrieves the first argument from a command 
