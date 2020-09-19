@@ -1,5 +1,5 @@
 <p align="center">
-<b>Get All Arguments As String</b>
+<h2 style="text-align:center;"> >Get All Arguments As String</h2>
 </p>
 
 Retrieves all first argument from a string  
