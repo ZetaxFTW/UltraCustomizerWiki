@@ -1,6 +1,4 @@
-<p align="center">
-<h2 >Get First Argument </h2>
-</p>
+<h2 style="text-align:center;"> Get First Argument </h2>
 
 Retrieves the first argument from a command 
 
