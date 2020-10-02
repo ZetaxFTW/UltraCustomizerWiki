@@ -7,5 +7,3 @@ Retrieve the Unique ID of a player
 String
 <br>
 
-**Example**
-To be added

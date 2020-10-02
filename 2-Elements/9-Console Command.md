@@ -4,9 +4,3 @@ Will perform a specific command using console
 
 <br>
 
-**Output**
-Nothing
-<br>
-
-**Example**
-To be added

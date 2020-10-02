@@ -7,5 +7,3 @@ Will execute a random out of 2 connected elements
 Element A or Element B
 <br>
 
-**Example**
-N/A

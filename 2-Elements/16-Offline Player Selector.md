@@ -6,6 +6,3 @@ Will open a GUI with all offline players
 **Output**
 GUI
 <br>
-
-**Example**
-To be added

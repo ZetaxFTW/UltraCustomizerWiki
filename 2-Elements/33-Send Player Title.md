@@ -7,5 +7,3 @@ Send a specific title to a player
 Title
 <br>
 
-**Example**
-N/A

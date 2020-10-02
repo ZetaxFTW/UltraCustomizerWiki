@@ -6,6 +6,3 @@ Sends a message to all players that have the permission bukkit.broadcast
 **Output**
 Bukkit Broadcast Message
 <br>
-
-**Example**
-To be added

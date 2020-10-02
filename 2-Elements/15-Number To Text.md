@@ -6,6 +6,3 @@ Converts a Number Variable to Text Variable
 **Output**
 String
 <br>
-
-**Example**
-To be added

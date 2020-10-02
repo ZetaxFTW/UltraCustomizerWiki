@@ -7,6 +7,3 @@ Retrieve a player from a name you will then be able to combine it with other Pla
 **Output**
 Player
 <br>
-
-**Example**
-To be added

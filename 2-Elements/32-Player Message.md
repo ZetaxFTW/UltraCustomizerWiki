@@ -7,5 +7,3 @@ Send a message to a specific player
 Player Message
 <br>
 
-**Example**
-N/A

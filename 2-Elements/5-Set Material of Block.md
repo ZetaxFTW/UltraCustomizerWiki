@@ -6,6 +6,3 @@ Replaces the current placed Block with a different one
 **Output**
 New block
 <br>
-
-**Example**
-To be added

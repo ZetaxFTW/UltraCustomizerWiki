@@ -7,5 +7,3 @@ Retrieve the In-Game name of a player
 String
 <br>
 
-**Example**
-To be added

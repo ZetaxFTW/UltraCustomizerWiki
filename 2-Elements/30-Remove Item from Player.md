@@ -4,8 +4,5 @@ Removes a specific amount of items from the players inventory
 <br>
 
 **Output**
-N/A
+Item
 <br>
-
-**Example**
-N/A

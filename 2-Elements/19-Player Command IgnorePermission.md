@@ -6,6 +6,3 @@ Will perform a specific command for a specific player while bypassing permission
 **Output**
 Command
 <br>
-
-**Example**
-To be added

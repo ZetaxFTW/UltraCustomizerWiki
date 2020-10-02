@@ -7,6 +7,3 @@ Will open a Number Picker GUI
 Int
 
 <br>
-
-**Example**
-To be added

@@ -8,5 +8,3 @@ Max is 20
 Food
 <br>
 
-**Example**
-N/A

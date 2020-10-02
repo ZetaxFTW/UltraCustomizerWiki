@@ -7,5 +7,3 @@ Send a player an actionbar message
 Actionbar Message
 <br>
 
-**Example**
-N/A

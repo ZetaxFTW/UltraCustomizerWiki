@@ -3,6 +3,3 @@
 Will throw the player
 
 <br>
-
-**Example**
-N/A

@@ -7,5 +7,3 @@ Will open a GUI with all online players
 GUI
 <br>
 
-**Example**
-To be added

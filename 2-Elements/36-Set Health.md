@@ -7,5 +7,3 @@ Sets the amount of health that the player has.
 Hearts
 <br>
 
-**Example**
-N/A
