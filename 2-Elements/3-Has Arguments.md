@@ -9,4 +9,4 @@ bool(True or False)
 
 **Example**
 /example arg1 (True)
-/exanple (False)
+/example (False)
